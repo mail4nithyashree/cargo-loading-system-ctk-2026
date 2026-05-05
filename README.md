@@ -12,5 +12,5 @@ This project implements the 0/1 Knapsack algorithm to optimize cargo loading.
 - Tkinter / CustomTkinter
 
 ## Team Members
-- Your Name
-- Teammate Name
+- Nithyashree C
+- Naga Sruthi M
